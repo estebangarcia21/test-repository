@@ -1,2 +1,2 @@
 # test-repository
-This is my cool repository!
+The repository where we learn about Github.
